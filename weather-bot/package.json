@@ -1,0 +1,16 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "Chatbot qui donne la météo d'une ville",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Niobey",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.12.0",
+    "request": "^2.83.0",
+    "restify": "^6.3.4"
+  }
+}
